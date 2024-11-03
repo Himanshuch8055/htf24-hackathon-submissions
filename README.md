@@ -27,6 +27,7 @@
   - Appwrite swag (hoodies and stickers)
 
 ## How To Submit Your Project?
+*(Watch [video tutorial on how to submit](https://youtu.be/zEYKnKD7dYE))*
 
 Follow the steps to submit your project in the hackathon:
 
@@ -66,7 +67,7 @@ All participants must agree to the [Rules](RULES.md) and [Code of Conduct](CODE_
 4. Does everyone on a winning team receive a prize?
     - If there is more than one member on a winning team, each member will receive the specified prize.
 
-5. Are there any specific themes than a project must fit within?
+5. Are there any specific themes that a project must fit within?
     - No, there are not any specified themes. Hackers are free to build on whatever idea they like.
 
 6. Who should I reach out to in case I need help building with Appwrite?
@@ -78,3 +79,6 @@ All participants must agree to the [Rules](RULES.md) and [Code of Conduct](CODE_
       - Find tutorials and blogs on Appwrite's services at the [Appwrite blog](https://appwrite.io/blog).
       - View our livestreams and video content at the [Appwrite YouTube channel](https://youtube.com/c/Appwrite).
       - Discover our community-made projects at the [Awesome Appwrite repo](https://github.com/appwrite/awesome-appwrite) and the [Built With Appwrite website](https://builtwith.appwrite.io/).
+
+8. Do I need a debit/credit card to [redeem free Appwrite Cloud credits](https://apwr.dev/hacktoberfest) for this hackathon?
+    - Yes, you need a debit/credit card to redeem the free Cloud credits. However, your card will not be charged as long as there are credits in your account.
