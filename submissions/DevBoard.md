@@ -58,7 +58,7 @@ Appwrite Functions were used to implement custom backend logic, such as automate
 ## Project Repo  
 _Share a public repo link of your project_
 
-https://github.com/Discord-Group-Project/DevBoard
+https://github.com/Discord-Group-Project/
 
 ## Demo Video/Photos/Link
 _Share a 2-3 minute demo video or photos or a deployed link of your project_
